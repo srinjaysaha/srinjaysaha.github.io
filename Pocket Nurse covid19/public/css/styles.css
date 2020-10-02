@@ -1,0 +1,47 @@
+
+#title{
+    background-color: #0080ff;
+}
+h1{
+    color: white;
+    font-family: Ubuntu;
+    font-weight: bold;
+    font-size: 5.5rem;
+    line-height: 1.5;
+}
+.header-content{
+    padding: 3% 15%;
+}
+.img-fluid{
+    height: 90%;
+    padding-top: 25%;
+}
+#contact-us{
+    background-color: #0080ff;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.footer-link{
+    font-size: 100%;
+    color: white;
+}
+
+.row{
+    padding: 5% 20%;
+}
+p{
+    font-family: 'Ubuntu';
+    font-weight: lighter;
+    text-align: left;
+    line-height: 1.75;
+    color: #0080ff;
+}
+h2{
+    font-family: 'Montserrat';
+    font-weight: 900;
+    line-height: 1.5;    
+}
